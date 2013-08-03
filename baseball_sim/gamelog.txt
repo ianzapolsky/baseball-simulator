@@ -1,0 +1,315 @@
+-------------------------------------------------------------------------------------------
+Welcome to SimBaseball. Today's game is between the Oakland Athletics (2002) and the New York Yankees (2002)
+Starting pitcher for the Oakland Athletics (2002) is Aaron Harang (P). Starting pitcher for the New York Yankees (2002) is Andy Pettitte (P)
+-------------------------------------------------------------------------------------------
+
+Top of 1. Oakland Athletics (2002): 0 New York Yankees (2002): 0
+
+Jorge Posada (C) is up to bat.
+Jorge Posada (C) hits a fieldable ball to 3.
+Scott Hatteberg (1B) commits a fielding error!
+	Jorge Posada (C) reaches 1B.
+Jason Giambi (1B) is up to bat.
+Jason Giambi (1B) draws a walk.
+	Jorge Posada (C) advances to 2B.
+	Jason Giambi (1B) reaches 1B.
+Alfonso Soriano (2B) is up to bat.
+Alfonso Soriano (2B) strikes out.
+1 outs!
+Derek Jeter (SS) is up to bat.
+Derek Jeter (SS) hits a fieldable ball to 1.
+2 outs!
+Robin Ventura (3B) is up to bat.
+Robin Ventura (3B) strikes out.
+3 outs!
+Bottom of 1. Oakland Athletics (2002): 0 New York Yankees (2002): 0
+
+Ramon Hernandez (C) is up to bat.
+Ramon Hernandez (C) hits a fieldable ball to 4.
+1 outs!
+Scott Hatteberg (1B) is up to bat.
+Scott Hatteberg (1B) hits a fieldable ball to 4.
+2 outs!
+Mark Ellis (2B) is up to bat.
+Mark Ellis (2B) strikes out.
+3 outs!
+Top of 2. Oakland Athletics (2002): 0 New York Yankees (2002): 0
+
+Rondell White (LF) is up to bat.
+Rondell White (LF) hits a fieldable ball to 4.
+1 outs!
+Bernie Williams (CF) is up to bat.
+Bernie Williams (CF) strikes out.
+2 outs!
+Raul Mondesi (RF) is up to bat.
+Raul Mondesi (RF) hits a fieldable ball to 4.
+3 outs!
+Bottom of 2. Oakland Athletics (2002): 0 New York Yankees (2002): 0
+
+Miguel Tejada (SS) is up to bat.
+Miguel Tejada (SS) draws a walk.
+	Miguel Tejada (SS) reaches 1B.
+Eric Chavez (3B) is up to bat.
+Eric Chavez (3B) hits a fieldable ball to 8.
+1 outs!
+David Justice (LF) is up to bat.
+David Justice (LF) hits a fieldable ball to 5.
+The infield turns a double play!
+3 outs!
+Top of 3. Oakland Athletics (2002): 0 New York Yankees (2002): 0
+
+Nick Johnson (DH) is up to bat.
+Nick Johnson (DH) hits a fieldable ball to 1.
+1 outs!
+Jorge Posada (C) is up to bat.
+Jorge Posada (C) hits a fieldable ball to 7.
+2 outs!
+Jason Giambi (1B) is up to bat.
+Jason Giambi (1B) hits a fieldable ball to 2.
+3 outs!
+Bottom of 3. Oakland Athletics (2002): 0 New York Yankees (2002): 0
+
+Terrence Long (CF) is up to bat.
+Terrence Long (CF) hits a single.
+	Terrence Long (CF) reaches 1B.
+Jermaine Dye (RF) is up to bat.
+Jermaine Dye (RF) draws a walk.
+	Terrence Long (CF) advances to 2B.
+	Jermaine Dye (RF) reaches 1B.
+Ray Durham (DH) is up to bat.
+Ray Durham (DH) hits a home run.
+	Terrence Long (CF) scores.
+	Jermaine Dye (RF) scores.
+	Ray Durham (DH) scores.
+Ramon Hernandez (C) is up to bat.
+Ramon Hernandez (C) draws a walk.
+	Ramon Hernandez (C) reaches 1B.
+Scott Hatteberg (1B) is up to bat.
+Scott Hatteberg (1B) draws a walk.
+	Ramon Hernandez (C) advances to 2B.
+	Scott Hatteberg (1B) reaches 1B.
+Mark Ellis (2B) is up to bat.
+Mark Ellis (2B) hits a single.
+	Ramon Hernandez (C) scores.
+	Scott Hatteberg (1B) advances to 3B.
+	Mark Ellis (2B) reaches 1B.
+Miguel Tejada (SS) is up to bat.
+Miguel Tejada (SS) strikes out.
+1 outs!
+Eric Chavez (3B) is up to bat.
+Eric Chavez (3B) strikes out.
+2 outs!
+David Justice (LF) is up to bat.
+David Justice (LF) hits a fieldable ball to 3.
+3 outs!
+Top of 4. Oakland Athletics (2002): 4 New York Yankees (2002): 0
+
+Alfonso Soriano (2B) is up to bat.
+Alfonso Soriano (2B) strikes out.
+1 outs!
+Derek Jeter (SS) is up to bat.
+Derek Jeter (SS) hits a home run.
+	Derek Jeter (SS) scores.
+Robin Ventura (3B) is up to bat.
+Robin Ventura (3B) strikes out.
+2 outs!
+Rondell White (LF) is up to bat.
+Rondell White (LF) hits a fieldable ball to 6.
+3 outs!
+Bottom of 4. Oakland Athletics (2002): 4 New York Yankees (2002): 1
+
+Terrence Long (CF) is up to bat.
+Terrence Long (CF) hits a fieldable ball to 3.
+1 outs!
+Jermaine Dye (RF) is up to bat.
+Jermaine Dye (RF) hits a fieldable ball to 8.
+2 outs!
+Ray Durham (DH) is up to bat.
+Ray Durham (DH) hits a fieldable ball to 2.
+3 outs!
+Top of 5. Oakland Athletics (2002): 4 New York Yankees (2002): 1
+
+Bernie Williams (CF) is up to bat.
+Bernie Williams (CF) hits a fieldable ball to 3.
+1 outs!
+Raul Mondesi (RF) is up to bat.
+Raul Mondesi (RF) strikes out.
+2 outs!
+Nick Johnson (DH) is up to bat.
+Nick Johnson (DH) hits a single.
+	Nick Johnson (DH) reaches 1B.
+Jorge Posada (C) is up to bat.
+Jorge Posada (C) strikes out.
+3 outs!
+Bottom of 5. Oakland Athletics (2002): 4 New York Yankees (2002): 1
+
+Ramon Hernandez (C) is up to bat.
+Ramon Hernandez (C) strikes out.
+1 outs!
+Scott Hatteberg (1B) is up to bat.
+Scott Hatteberg (1B) hits a fieldable ball to 1.
+2 outs!
+Mark Ellis (2B) is up to bat.
+Mark Ellis (2B) hits a fieldable ball to 7.
+3 outs!
+Top of 6. Oakland Athletics (2002): 4 New York Yankees (2002): 1
+
+Jason Giambi (1B) is up to bat.
+Jason Giambi (1B) strikes out.
+1 outs!
+Alfonso Soriano (2B) is up to bat.
+Alfonso Soriano (2B) hits a fieldable ball to 9.
+2 outs!
+Derek Jeter (SS) is up to bat.
+Derek Jeter (SS) hits a fieldable ball to 3.
+3 outs!
+Bottom of 6. Oakland Athletics (2002): 4 New York Yankees (2002): 1
+
+Miguel Tejada (SS) is up to bat.
+Miguel Tejada (SS) hits a fieldable ball to 2.
+1 outs!
+Eric Chavez (3B) is up to bat.
+Eric Chavez (3B) hits a fieldable ball to 4.
+2 outs!
+David Justice (LF) is up to bat.
+David Justice (LF) hits a fieldable ball to 3.
+3 outs!
+Top of 7. Oakland Athletics (2002): 4 New York Yankees (2002): 1
+
+Robin Ventura (3B) is up to bat.
+Robin Ventura (3B) draws a walk.
+	Robin Ventura (3B) reaches 1B.
+Rondell White (LF) is up to bat.
+Rondell White (LF) draws a walk.
+	Robin Ventura (3B) advances to 2B.
+	Rondell White (LF) reaches 1B.
+Bernie Williams (CF) is up to bat.
+Bernie Williams (CF) hits a single.
+	Robin Ventura (3B) advances to 3B.
+	Rondell White (LF) advances to 2B.
+	Bernie Williams (CF) reaches 1B.
+Raul Mondesi (RF) is up to bat.
+Raul Mondesi (RF) draws a walk.
+	Robin Ventura (3B) scores.
+	Rondell White (LF) advances to 3B.
+	Bernie Williams (CF) advances to 2B.
+	Raul Mondesi (RF) reaches 1B.
+Nick Johnson (DH) is up to bat.
+Nick Johnson (DH) hits a fieldable ball to 7.
+The hit is a sac fly.
+	Rondell White (LF) scores.
+1 outs!
+Jorge Posada (C) is up to bat.
+Jorge Posada (C) draws a walk.
+	Bernie Williams (CF) advances to 3B.
+	Raul Mondesi (RF) advances to 2B.
+	Jorge Posada (C) reaches 1B.
+Jason Giambi (1B) is up to bat.
+Jason Giambi (1B) hits a double.
+	Bernie Williams (CF) scores.
+	Raul Mondesi (RF) scores.
+	Jorge Posada (C) advances to 3B.
+	Jason Giambi (1B) reaches 2B.
+Alfonso Soriano (2B) is up to bat.
+Alfonso Soriano (2B) hits a single.
+	Jorge Posada (C) scores.
+	Jason Giambi (1B) scores.
+	Alfonso Soriano (2B) reaches 1B.
+Derek Jeter (SS) is up to bat.
+Derek Jeter (SS) draws a walk.
+	Alfonso Soriano (2B) advances to 2B.
+	Derek Jeter (SS) reaches 1B.
+Robin Ventura (3B) is up to bat.
+Robin Ventura (3B) hits a single.
+	Alfonso Soriano (2B) advances to 3B.
+	Derek Jeter (SS) advances to 2B.
+	Robin Ventura (3B) reaches 1B.
+Rondell White (LF) is up to bat.
+Rondell White (LF) hits a fieldable ball to 5.
+The infield turns a double play!
+3 outs!
+Bottom of 7. Oakland Athletics (2002): 4 New York Yankees (2002): 7
+
+Terrence Long (CF) is up to bat.
+Terrence Long (CF) hits a fieldable ball to 3.
+1 outs!
+Jermaine Dye (RF) is up to bat.
+Jermaine Dye (RF) hits a fieldable ball to 4.
+2 outs!
+Ray Durham (DH) is up to bat.
+Ray Durham (DH) strikes out.
+3 outs!
+Top of 8. Oakland Athletics (2002): 4 New York Yankees (2002): 7
+
+Bernie Williams (CF) is up to bat.
+Bernie Williams (CF) hits a single.
+	Bernie Williams (CF) reaches 1B.
+Raul Mondesi (RF) is up to bat.
+Raul Mondesi (RF) hits a fieldable ball to 8.
+1 outs!
+Nick Johnson (DH) is up to bat.
+Nick Johnson (DH) strikes out.
+2 outs!
+Jorge Posada (C) is up to bat.
+Jorge Posada (C) hits a fieldable ball to 9.
+3 outs!
+Bottom of 8. Oakland Athletics (2002): 4 New York Yankees (2002): 7
+
+Pitching Substitution: Closer Mariano Rivera (P) for Andy Pettitte (P). Andy Pettitte (P) leaves the game with 103 pitches.
+Ramon Hernandez (C) is up to bat.
+Ramon Hernandez (C) hits a fieldable ball to 2.
+1 outs!
+Scott Hatteberg (1B) is up to bat.
+Scott Hatteberg (1B) hits a fieldable ball to 3.
+2 outs!
+Mark Ellis (2B) is up to bat.
+Mark Ellis (2B) hits a fieldable ball to 3.
+3 outs!
+Top of 9. Oakland Athletics (2002): 4 New York Yankees (2002): 7
+
+Jason Giambi (1B) is up to bat.
+Jason Giambi (1B) draws a walk.
+	Jason Giambi (1B) reaches 1B.
+Alfonso Soriano (2B) is up to bat.
+Alfonso Soriano (2B) hits a single.
+	Jason Giambi (1B) advances to 3B.
+	Alfonso Soriano (2B) reaches 1B.
+Derek Jeter (SS) is up to bat.
+Derek Jeter (SS) hits a single.
+	Jason Giambi (1B) scores.
+	Alfonso Soriano (2B) advances to 3B.
+	Derek Jeter (SS) reaches 1B.
+Robin Ventura (3B) is up to bat.
+Robin Ventura (3B) draws a walk.
+	Derek Jeter (SS) advances to 2B.
+	Robin Ventura (3B) reaches 1B.
+Rondell White (LF) is up to bat.
+Rondell White (LF) hits a fieldable ball to 6.
+The infield turns a double play!
+	Alfonso Soriano (2B) scores.
+	Derek Jeter (SS) advances to 3B.
+2 outs!
+Bernie Williams (CF) is up to bat.
+Bernie Williams (CF) hits a fieldable ball to 7.
+3 outs!
+Bottom of 9. Oakland Athletics (2002): 4 New York Yankees (2002): 9
+
+Pitching Substitution: Closer Mariano Rivera (P) for Billy Koch (P). Billy Koch (P) leaves the game with 6 pitches.
+Miguel Tejada (SS) is up to bat.
+Miguel Tejada (SS) hits a single.
+	Miguel Tejada (SS) reaches 1B.
+Eric Chavez (3B) is up to bat.
+Eric Chavez (3B) hits a home run.
+	Miguel Tejada (SS) scores.
+	Eric Chavez (3B) scores.
+David Justice (LF) is up to bat.
+David Justice (LF) strikes out.
+1 outs!
+Terrence Long (CF) is up to bat.
+Terrence Long (CF) strikes out.
+2 outs!
+Jermaine Dye (RF) is up to bat.
+Jermaine Dye (RF) strikes out.
+3 outs!
+New York Yankees (2002) win, 9 to 6
+
