@@ -213,11 +213,13 @@ public class Game {
 			if (pitcher == homeP) {
 				printLog("Pitching Substitution: "+home.bullpen.get(6)+" for "+homeP+". "+homeP+" leaves the game with "+((int)homeP.pitchCount)+" pitches.\n");
 				homeP = home.bullpen.get(6);
+				homeOrder[homeOrder.length-1] = homeP;
 				addHomeField(homeP);
 			}
 			else {
 				printLog("Pitching Substitution: "+away.bullpen.get(6)+" for "+awayP+". "+awayP+" leaves the game with "+((int)awayP.pitchCount)+" pitches.\n");
 				awayP = away.bullpen.get(6);
+				awayOrder[awayOrder.length-1] =  awayP;
 				addHomeField(homeP);
 			}
 		}
@@ -225,6 +227,7 @@ public class Game {
 			if (hRuns > aRuns && inning > 7 && pitcher.pitchCount > 50) {
 				printLog("Pitching Substitution: Closer "+getCloser(home)+" for "+homeP+". "+homeP+" leaves the game with "+((int)homeP.pitchCount)+" pitches.\n");
 				homeP = getCloser(home);
+				homeOrder[homeOrder.length-1] = homeP;
 				addHomeField(homeP);
 			}
 		}
@@ -232,6 +235,7 @@ public class Game {
 			if (aRuns > hRuns && inning > 7) {
 				printLog("Pitching Substitution: Closer "+getCloser(away)+" for "+awayP+". "+awayP+" leaves the game with "+((int)awayP.pitchCount)+" pitches.\n");
 				awayP = getCloser(home);
+				awayOrder[awayOrder.length-1] =  awayP;
 				addAwayField(awayP);
 			}	
 		}
