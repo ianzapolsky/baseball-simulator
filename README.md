@@ -1,3 +1,5 @@
+# NOTE: This project is not being actively maintained, and hasn't seen any love since 2014 when it was originally written. Proceed with caution! :}
+
 BaseballSim
 ===========
 
